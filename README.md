@@ -1,2 +1,4 @@
 # First-Projects
-First React Projects
+
+A list of useful Projects that can be used in other places.
+
